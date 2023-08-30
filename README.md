@@ -1,4 +1,4 @@
-# Law_chat_bot
+# Law_chatbot
 
 # Overview
 
